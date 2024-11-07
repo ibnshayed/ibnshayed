@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Emran IBN Shayed
 
-Welcome to my GitHub profile! I'm a passionate Software Developer specializing in web development and data structures. I enjoy building innovative solutions and contributing to open-source projects.
+Welcome to my GitHub profile! I'm a passionate Full Stack Developer with expertise in both front and back-end technologies. I enjoy building innovative solutions and contributing to open-source projects.
 
 ---
 
@@ -9,24 +9,33 @@ Welcome to my GitHub profile! I'm a passionate Software Developer specializing i
 ## 👨‍💻 About Me
 
 - 🔭 I’m currently working on **[E-Commerce-Django-and-ReactJs](https://github.com/ibnshayed/E-Commerce-Django-and-ReactJs)**
-- 🌱 I’m currently learning **Rust and Machine Learning**
-- 👯 I’m looking to collaborate on **open-source Python libraries and web applications**
-- 💬 Ask me about **web development, data structures, and algorithms**
-- 📫 How to reach me: **[Email](mailto:emran@example.com)**
-- ⚡ Fun fact: **I love hiking and have a collection of rare succulents!**
+- 🌱 I’m currently learning **Advanced Microservices Architecture**
+- 👯 I’m looking to collaborate on **Open-Source Python and JavaScript projects**
+- 💬 Ask me about **Web Development, Microservices, and DevOps**
+- 📫 How to reach me: **[ibnshayed@gmail.com](mailto:ibnshayed@gmail.com)**
+- ⚡ Fun fact: **I love to explore new technologies and innovate in the field of web development!**
 
 ---
 
 ## 🛠️ Technologies & Tools
 
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
-![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=flat)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=flat)
+![Nest.js](https://img.shields.io/badge/-Nest.js-ea2845?logo=nestjs&logoColor=white&style=flat)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
+![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=flat)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=flat)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=flat)
+![React.js](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=flat)
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=white&style=flat)
+![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-00DC82?logo=nuxt.js&logoColor=white&style=flat)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
 
 ---
 
@@ -61,8 +70,7 @@ Check them out and feel free to provide feedback! 🌟
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/ibnshayed)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/ibnshayed)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:emran@example.com)
-[![Personal Website](https://img.shields.io/badge/Website-000000?logo=About.me&logoColor=white)](https://ibnshayed.github.io/)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ibnshayed@gmail.com)
 
 Let's connect and discuss technology, projects, and collaboration opportunities!
 
@@ -76,9 +84,7 @@ Let's connect and discuss technology, projects, and collaboration opportunities!
 
 ## 🐍 Contribution Snake
 
-![Snake animation](https://github.com/ibnshayed/ibnshayed/blob/output/github-contribution-grid-snake.svg)
-
-> **Note:** To enable the snake animation, follow [this guide](https://github.com/Platane/snk#usage) to generate the SVG file and configure it to display your contributions in a fun way.
+To add the snake animation, follow the instructions in my previous response to generate the SVG file.
 
 ---
 
